@@ -1,0 +1,9 @@
+C:\Users\kim\documents\visual studio 2013\Projects\USART_TEST\USART_TEST\bin\Debug\USART_TEST.exe.config
+C:\Users\kim\Documents\Visual Studio 2013\Projects\USART_TEST\USART_TEST\bin\Debug\USART_TEST.exe
+C:\Users\kim\Documents\Visual Studio 2013\Projects\USART_TEST\USART_TEST\bin\Debug\USART_TEST.pdb
+C:\Users\kim\Documents\Visual Studio 2013\Projects\USART_TEST\USART_TEST\obj\Debug\USART_TEST.csprojResolveAssemblyReference.cache
+C:\Users\kim\Documents\Visual Studio 2013\Projects\USART_TEST\USART_TEST\obj\Debug\USART_TEST.Form1.resources
+C:\Users\kim\Documents\Visual Studio 2013\Projects\USART_TEST\USART_TEST\obj\Debug\USART_TEST.Properties.Resources.resources
+C:\Users\kim\Documents\Visual Studio 2013\Projects\USART_TEST\USART_TEST\obj\Debug\USART_TEST.csproj.GenerateResource.Cache
+C:\Users\kim\Documents\Visual Studio 2013\Projects\USART_TEST\USART_TEST\obj\Debug\USART_TEST.exe
+C:\Users\kim\Documents\Visual Studio 2013\Projects\USART_TEST\USART_TEST\obj\Debug\USART_TEST.pdb

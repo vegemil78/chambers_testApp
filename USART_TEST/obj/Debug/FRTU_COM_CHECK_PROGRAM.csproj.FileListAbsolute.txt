@@ -1,0 +1,13 @@
+C:\Users\kim\documents\visual studio 2013\Projects\USART_TEST\USART_TEST\bin\Debug\FRTU_COM_CHECK_PROGRAM.exe.config
+C:\Users\kim\Documents\Visual Studio 2013\Projects\FRTU_COM_CHECK_PROGRAM\USART_TEST\bin\Debug\FRTU_COM_CHECK_PROGRAM.exe.config
+C:\Users\kim\Documents\Visual Studio 2013\Projects\FRTU_COM_CHECK_PROGRAM\USART_TEST\bin\Debug\FRTU_COM_CHECK_PROGRAM.exe
+C:\Users\kim\Documents\Visual Studio 2013\Projects\FRTU_COM_CHECK_PROGRAM\USART_TEST\bin\Debug\FRTU_COM_CHECK_PROGRAM.pdb
+C:\Users\kim\Documents\Visual Studio 2013\Projects\FRTU_COM_CHECK_PROGRAM\USART_TEST\obj\Debug\FRTU_COM_CHECK_PROGRAM.csprojResolveAssemblyReference.cache
+C:\Users\kim\Documents\Visual Studio 2013\Projects\FRTU_COM_CHECK_PROGRAM\USART_TEST\obj\Debug\FRTU_COM_CHECK_PROGRAM.Form1.resources
+C:\Users\kim\Documents\Visual Studio 2013\Projects\FRTU_COM_CHECK_PROGRAM\USART_TEST\obj\Debug\FRTU_COM_CHECK_PROGRAM.Properties.Resources.resources
+C:\Users\kim\Documents\Visual Studio 2013\Projects\FRTU_COM_CHECK_PROGRAM\USART_TEST\obj\Debug\FRTU_COM_CHECK_PROGRAM.csproj.GenerateResource.Cache
+C:\Users\kim\Documents\Visual Studio 2013\Projects\FRTU_COM_CHECK_PROGRAM\USART_TEST\obj\Debug\FRTU_COM_CHECK_PROGRAM.exe
+C:\Users\kim\Documents\Visual Studio 2013\Projects\FRTU_COM_CHECK_PROGRAM\USART_TEST\obj\Debug\FRTU_COM_CHECK_PROGRAM.pdb
+C:\Users\Lenovo\Desktop\FRTU_COM_CHECK_PROGRAM_1027\USART_TEST\bin\Debug\FRTU_COM_CHECK_PROGRAM.exe.config
+C:\Users\Lenovo\Desktop\FRTU_COM_CHECK_PROGRAM_1027\USART_TEST\obj\Debug\FRTU_COM_CHECK_PROGRAM.exe
+C:\Users\Lenovo\Desktop\FRTU_COM_CHECK_PROGRAM_1027\USART_TEST\obj\Debug\FRTU_COM_CHECK_PROGRAM.pdb
